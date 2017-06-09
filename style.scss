@@ -22,7 +22,9 @@ body {
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
-
+div {
+    background: rgba(244, 244, 244, 0.3)
+}
 .container {
   margin: 0 auto;
   max-width: 740px;
