@@ -18,15 +18,15 @@ avatar: https://store.playstation.com/store/api/chihiro/00_09_000/container/HR/e
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: shn.hacks71@gmail.com
+  facebook:yecko71
   flickr:
   github: barryclark/jekyll-now
-  instagram:
+  instagram:yecko71
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
