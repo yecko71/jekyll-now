@@ -23,7 +23,8 @@ body {
   color: $darkGray;
 }
 div {
-    background: rgba(244, 244, 244, 0.3)
+    background: rgba(244, 244, 244, 0.3);
+    box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .container {
   margin: 0 auto;
