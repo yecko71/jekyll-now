@@ -39,27 +39,28 @@ published: true
   </tr>
   <tr>
     <td>Persevering</td>
-    <td></td>
+    <td>By trying hard to make sure that I was doing the right thing and when I wasn't, I made sure I knew what to do.</td>
   </tr>
   <tr>
     <td>Questioning?</td>
-    <td></td>
+    <td>By asking myself whether this was the right thing to do and telling myself that I needed to install the application and to use           my common sense.
+    </td>
   </tr>
   <tr>
     <td>Independence</td>
-    <td></td>
+    <td>By not asking any Questions but more importantly, figuring out things mostly for myself. </td>
   </tr>
   <tr>
     <td>Reflecting</td>
-    <td></td>
+    <td>By using what I did wrong to help me improve what I did during the remainder of the lesson.</td>
   </tr>
   <tr>
     <td>Engagement</td>
-    <td>By listening well to other peoples questions and using this to help me.</td>
+    <td>By listening well to other peoples questions and using them to help me.</td>
   </tr>
   <tr>
     <td>What could have gone better in your learning?</td>
-    <td>I could have not looked around onto other peoples screens and I could have done things for myself rather than relying on other people. 
+    <td>I could have not looked around onto other people's screens and I could have done things for myself rather than relying on other people. 
     </td>
   </tr>
   <tr>
