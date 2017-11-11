@@ -19,11 +19,11 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>We have a github repository and we have changed some CSS</td>
+    <td>We have a github repository and we have changed some CSS.</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To  successfully post this blog to github.</td>
+    <td>To successfully post this blog to github.</td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
