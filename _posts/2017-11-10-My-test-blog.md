@@ -19,15 +19,15 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>We have a github repository and we have changed some CSS.</td>
+    <td>We have a Github repository and we have changed some CSS.</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To successfully post this blog to github.</td>
+    <td>To successfully post this blog to Github.</td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
-    <td>Yes, I successfully posted this blog onto github.</td>
+    <td>Yes, I successfully posted this blog onto Github.</td>
   </tr>
 </table>
 
@@ -55,11 +55,12 @@ published: true
   </tr>
   <tr>
     <td>Engagement</td>
-    <td></td>
+    <td>By listening well to other peoples questions and using this to help me.</td>
   </tr>
   <tr>
     <td>What could have gone better in your learning?</td>
-    <td></td>
+    <td>I could have not looked around onto other peoples screens and I could have done things for myself rather than relying on other people. 
+    </td>
   </tr>
   <tr>
     <td></td>
@@ -67,12 +68,14 @@ published: true
   </tr>
   <tr>
     <td>What changes do you need to make to improve your learning next time?</td>
-    <td></td>
+    <td>I will change the fact that I need to be more independent by trusting myself and to keep reminding myself that I can't break the
+        computer and that I can try different things.
+    </td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-  </tr>
+  </tr> 
 </table>
 
 
