@@ -43,7 +43,7 @@ published: true
   </tr>
   <tr>
     <td>Questioning?</td>
-    <td>I asked myself "which piece of code I could reuse or make more easier to read."</td>
+    <td>I asked myself "which piece of code I could reuse or make more easier to read?"</td>
   </tr>
   <tr>
     <td>Independence</td>
