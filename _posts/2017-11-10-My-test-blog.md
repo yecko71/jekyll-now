@@ -27,7 +27,7 @@ published: true
   </tr>
   <tr>
     <td>Did I reach my target? </td>
-    <td></td>
+    <td>Yes and I didn't need help with it.</td>
   </tr>
 </table>
 
@@ -39,30 +39,30 @@ published: true
   </tr>
   <tr>
     <td>Persevering</td>
-    <td></td>
+    <td>I kept on working whilst the teacher was working with other students.</td>
   </tr>
   <tr>
     <td>Questioning?</td>
-    <td></td>
+    <td>I asked myself, "can Gabriel help me to improve my learning?"</td>
   </tr>
   <tr>
     <td>Independence</td>
-    <td></td>
+    <td>I installed the “Gabriel add-on” without help.</td>
   </tr>
   <tr>
     <td>Reflecting</td>
-    <td></td>
+    <td>I thought back to when the teacher was giving instructions and did what the instructions said.</td>
   </tr>
   <tr>
     <td>Engagement</td>
-    <td></td>
+    <td>I listened to the teacher and therefore knew how to install “Gabriel”.</td>
   </tr>
   <tr>
     <td>What could have gone better in your learning?</td>
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>I could have just focused on my own work rather than “helping” other people.</td>
     <td></td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>I need to learn to focus and concentrate.</td>
     <td></td>
   </tr>
 </table>
